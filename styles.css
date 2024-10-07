@@ -329,13 +329,13 @@ body {
     width:100%;
     display:block;
     margin-top:10px;
-    padding-bottom:10px;
+    margin-bottom:10px;
 }
 .blog h2{
     display:block;
     color:rgb(255, 255, 255);
     font-family: 'Helvetica Neue', Arial;
-    font-size:1.3rem;
+    font-size:2.3rem;
     width:fit-content;
     min-height:5px;
     height:fit-content;
@@ -345,7 +345,7 @@ body {
 .blog h2:after{
     content: "";
     display:block;
-    width:100vw;
+    width:100%;
     border-top:2px solid white;
     z-index:1;
     background-clip: content-box;
