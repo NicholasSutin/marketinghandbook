@@ -359,5 +359,6 @@ body {
     line-height:1.5;
     padding-bottom:20px;
     color:lightgray;
+    font-size:25px;
     transform:translateY(-15px);
 }
