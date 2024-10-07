@@ -317,3 +317,11 @@ body {
     line-height:0.8;
     font-size:smaller;
 }
+/*-------*/
+.blog h2{
+    display:block;
+    color:lightgray;
+    margin-top:200px;
+    font-family:'Martel Sans';
+    font-size:1rem;
+}
