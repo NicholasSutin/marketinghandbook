@@ -72,9 +72,9 @@ body {
     clip-path: polygon(0 0, 100% 0, 100% 55%, 0% 100%);
     z-index: -6;
     background-image: url('https://wallpaperaccess.com/full/1385482.jpg');
-    background-size: cover; /* Cover the entire area */
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
     overflow:hidden;
     opacity:0.5;
 }
@@ -361,5 +361,5 @@ body {
     color:lightgray;
     font-size:25px;
     transform:translateY(-15px);
-    text-indent: 10px;
+    margin-left: 10px;
 }
